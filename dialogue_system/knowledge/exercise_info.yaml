@@ -1,0 +1,18 @@
+#参考URL
+#https://www.nibiohn.go.jp/files/2011mets.pdf
+#歩行：通勤や通学
+exerciseA:
+  name: 'ウォーキング'
+  METs: 4.0
+exerciseB:
+  #ランニング：6.4km/時、107.3m/分
+  name: 'ランニング'
+  METs: 6.0
+exerciseC:
+  #3.5METs
+  name: 'サイクリング'
+  METs: 3.5
+exerciseD:
+  #楽な労力の場合(ほどほど=3.8,きつい=8.0)
+  name: '腹筋'
+  METs: 2.8
